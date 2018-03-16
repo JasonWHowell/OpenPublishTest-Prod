@@ -40,7 +40,6 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "DocsetNameProd1",
-    "markdownEngineName": "markdig"
+    "dest": "DocsetNameProd1"
   }
 }
