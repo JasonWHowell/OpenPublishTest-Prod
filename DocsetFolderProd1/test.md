@@ -1,3 +1,3 @@
 #Testing markdown
 
-[!INCLUDE [Azure portal](token.md)]
+[!INCLUDE [Azure portal](../include/token.md)]
