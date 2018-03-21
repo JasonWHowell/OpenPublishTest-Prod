@@ -1,1 +1,1 @@
-![image title](./media/image.jpg)
+![image title](../media/image.jpg)
