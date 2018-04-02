@@ -14,13 +14,13 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
+      "xref_query_tags": ["/cli/azure"], 
       "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "xref_query_tags": ["/cli/azure"], 
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
